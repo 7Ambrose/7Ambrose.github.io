@@ -2,18 +2,10 @@
 
 ## 在线预览
 
-<iframe
-  src="../report-01.pdf"
-  width="100%"
-  height="800"
-  style="border: 1px solid #ddd; border-radius: 8px;"
-  title="插座系统测试报告">
-</iframe>
+<iframe src="../report-01.pdf" width="100%" height="800" style="border: 1px solid #ddd; border-radius: 8px;" title="插座系统测试报告"></iframe>
 
 ## 下载报告
 
-<a href="../report-01.pdf" download="插座系统测试报告.pdf">
-  📥 下载报告
-</a>
+<a href="../report-01.pdf" download="插座系统测试报告.pdf">📥 下载报告</a>
 
 如果上方无法预览，可以[单独打开 PDF](../report-01.pdf)。
