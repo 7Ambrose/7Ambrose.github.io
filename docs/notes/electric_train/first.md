@@ -8,4 +8,4 @@
 
 <a href="../report-01.pdf" download="插座系统测试报告.pdf">📥 下载报告</a>
 
-如果上方无法预览，可以[单独打开 PDF](../report-01.pdf)。
+如果上方无法预览，可以[单独打开 PDF](report-01.pdf)。
