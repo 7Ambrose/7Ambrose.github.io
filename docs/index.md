@@ -6,8 +6,7 @@
 
 ## 内容导航
 
-- 📚 [电子工程训练报告](notes/electric_train/first.md)
-- 📥 [资料下载](resources.md)
+- 📚 [电子工程训练](notes/electric_train/reports.md)
 - 🎬 [电影时刻](movies.md)
 - 👋 [关于我](about.md)
 
