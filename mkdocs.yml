@@ -40,7 +40,7 @@ nav:
   - 首页: index.md
   - 学习笔记:
       - 电子工程训练:
-          - 实验报告: notes/electric_train/first.md
+          - 智能插座报告: notes/electric_train/first.md
           - 基础实验报告: notes/electric_train/basic-experiment.md
           - 小车预习报告: notes/electric_train/car-prelab.md
   - 资料下载: resources.md
