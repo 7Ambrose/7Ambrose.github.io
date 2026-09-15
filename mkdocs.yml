@@ -1,6 +1,7 @@
 site_name: AmbrO 的摸鱼空间
 site_description: AmbrO的课程笔记、资料整理、学习日程与电影安利
 site_url: https://7ambrose.github.io/
+
 use_directory_urls: true
 
 theme:
@@ -38,7 +39,7 @@ markdown_extensions:
 nav:
   - 首页: index.md
   - 学习笔记:
-      - 电工训:
+      - 电子工程训练:
           - 实验报告: notes/electric_train/first.md
   - 资料下载: resources.md
   - 电影时刻: movies.md
