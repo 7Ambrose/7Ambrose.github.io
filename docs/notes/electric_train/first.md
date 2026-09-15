@@ -1,11 +1,19 @@
-# 电工训实验资料
+# 电子工程训练实验报告
 
-这里整理我的电工训实验报告与相关资料。
+## 在线预览
 
-## 实验报告
+<iframe
+  src="../report-01.pdf"
+  width="100%"
+  height="800"
+  style="border: 1px solid #ddd; border-radius: 8px;"
+  title="插座系统测试报告">
+</iframe>
 
-资料整理中，稍后上传。
+## 下载报告
 
-## 实验记录
+<a href="../report-01.pdf" download="插座系统测试报告.pdf">
+  📥 下载报告
+</a>
 
-后续补充实验步骤、注意事项与个人总结。
+如果上方无法预览，可以[单独打开 PDF](../report-01.pdf)。
