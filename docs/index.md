@@ -5,7 +5,6 @@
 ## 内容导航
 
 - [学习笔记](notes/electric_train/first.md)
-- [资料下载](resources.md)
 - [电影时刻](movies.md)
 - [关于我](about.md)
 
