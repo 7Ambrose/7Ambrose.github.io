@@ -14,13 +14,13 @@ theme:
     - content.code.copy
   palette:
     - scheme: default
-      primary: teal
+      primary: orange
       accent: amber
       toggle:
         icon: material/brightness-7
         name: 切换到深色模式
     - scheme: slate
-      primary: teal
+      primary: orange
       accent: amber
       toggle:
         icon: material/brightness-4
@@ -44,5 +44,11 @@ nav:
           - 插座系统测试报告: notes/electric_train/first.md
           - 基础实验报告: notes/electric_train/basic-experiment.md
           - 小车预习报告: notes/electric_train/car-prelab.md
+      - 信息与电子工程导论:
+          - 报告目录: notes/introduction_IE/report.md
+          - 基于Matlab的信号频谱分析: notes/introduction_IE/MATLAB.md
+          - 基于Simulink的信号调制仿真: notes/introduction_IE/SIMULINK.md
+          - 基于Multisim的三极管特性仿真: notes/introduction_IE/MULTISIM.md
+          - 课程设计大作业: notes/introduction_IE/the-last.md
   - 电影时刻: movies.md
   - 关于我: about.md

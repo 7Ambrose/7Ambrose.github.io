@@ -7,6 +7,7 @@
 ## 内容导航
 
 - 📚 [电子工程训练](notes/electric_train/reports.md)
+- 📚 [信息与电子工程导论](notes/introduction_IE/report.md)
 - 🎬 [电影时刻](movies.md)
 - 👋 [关于我](about.md)
 
