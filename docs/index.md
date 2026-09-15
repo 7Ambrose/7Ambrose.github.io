@@ -1,43 +1,19 @@
-site_name: 我的学习空间
-site_description: 记录学习，整理笔记，分享资料
-site_url: https://AmbrOse.github.io/
+# 欢迎来到AmbrO的小世界
 
-theme:
-  name: material
-  language: zh
-  features:
-    - navigation.tabs
-    - navigation.top
-    - search.highlight
-    - content.code.copy
-  palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-7
-        name: 切换到深色模式
-    - scheme: slate
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-4
-        name: 切换到浅色模式
+这里包含：AmbrO的课程笔记、资料整理、学习日程等等
 
-plugins:
-  - search
+## 内容导航
 
-markdown_extensions:
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-  - toc:
-      permalink: true
+- [学习笔记](notes/math/first.md)
+- [资料下载](resources.md)
+- [关于我](about.md)
 
-nav:
-  - 首页: index.md
-  - 学习笔记:
-      - 数学:
-          - 第一篇笔记: notes/math/first.md
-  - 资料下载: resources.md
-  - 关于我: about.md
+## 最近更新
+
+- 2026-09-15：网站上线哇咔咔！
+
+## 正在学习
+
+- 概统
+- 大学物理
+- 专业课程
