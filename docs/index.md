@@ -16,7 +16,7 @@
 
 一个轻量级 Windows 桌面日程小软件，支持拖拽排期，日程完成/未完成/取消，周计划，日计划等
 
-[去这里下载！ →](https://github.com/7Ambrose/qingxu)
+[去这里下载！](https://github.com/7Ambrose/qingxu)
 
 ## 最近更新
 
